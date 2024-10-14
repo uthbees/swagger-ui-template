@@ -4,7 +4,7 @@ info:
   title: Hello World example
 
 paths:
-  '/example':
+  /example:
     get:
       responses:
         '200':
